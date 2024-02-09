@@ -1,0 +1,13 @@
+/* src/app/app.component.css */
+
+div {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  h1, h2  {
+    color: #1976d2;
+  }
+  
